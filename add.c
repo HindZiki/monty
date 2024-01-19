@@ -1,6 +1,5 @@
 #include "monty.h"
 /**
- * Collabe by HindZiki
  * f_add - add the top 2 element of the stack
  * @head: stack head.
  * @counter: line_number.

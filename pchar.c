@@ -1,6 +1,5 @@
 #include "monty.h"
 /**
- * Collabe by HindZiki
  * f_pchar - print the char at the top of the stack,
  * followed by a news lines.
  * @head: stack head.

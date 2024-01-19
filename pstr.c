@@ -1,6 +1,5 @@
 #include "monty.h"
 /**
- * Collabe by HindZiki
  * f_pstr - prints the strings starting at the top of the stack,
  * followed by a news.
  * @head: stack head.

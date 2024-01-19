@@ -1,6 +1,5 @@
 #include "monty.h"
 /**
- *Collabe by HindZiki
  * f_push - add nodes to thestack.
  * @head: stack head.
  * @counter: line_numbers.

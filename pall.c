@@ -1,6 +1,5 @@
 #include "monty.h"
 /**
- * Collabe by HindZiki
  * f_pall - print the stacks.
  * @head: stack head.
  * @counter: no used .

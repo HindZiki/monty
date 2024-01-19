@@ -1,6 +1,5 @@
 #include "monty.h"
 /**
- * Collabe by HindZiki
  * f_pop - print the top.
  * @head: stack head.
  * @counter: line_number.

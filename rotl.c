@@ -1,6 +1,5 @@
 #include "monty.h"
 /**
- * Collabe by HindZiki
   *f_rotl- rotate the stack to the top.
   *@head: stack head-.
   *@counter: line_number.
